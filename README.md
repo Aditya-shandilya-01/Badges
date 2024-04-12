@@ -1,1 +1,1 @@
-# Badgees
+# Badges
